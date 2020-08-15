@@ -1,0 +1,36 @@
+{
+    "data": [{
+            "materielId": 1,
+            "materielName": "商品1",
+            "materielNum": "item1",
+            "status": "0",
+            "materielPrice": "123.4",
+            "createTime": "2020-8-00"
+        },
+        {
+            "materielId": 2,
+            "materielName": "商品2",
+            "materielNum": "item2",
+            "status": "0",
+            "materielPrice": "123.4",
+            "createTime": "2020-8-00"
+        },
+        {
+            "materielId": 3,
+            "materielName": "商品3",
+            "materielNum": "item3",
+            "status": "1",
+            "materielPrice": "123.4",
+            "createTime": "2020-8-000"
+        },
+        {
+            "materielId": 4,
+            "materielName": "商品4",
+            "materielNum": "item4",
+            "status": "1",
+            "materielPrice": "123.4",
+            "createTime": "2020-8-00"
+        }
+    ],
+    "pageTotal": 4
+}
