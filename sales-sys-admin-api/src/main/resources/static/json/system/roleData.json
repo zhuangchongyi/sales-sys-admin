@@ -1,0 +1,32 @@
+{
+    "data": [{
+            "roleId": 1,
+            "roleName": "超级管理员",
+            "roleKey": "superadmin",
+            "status": "0",
+            "createTime": "2020-8-00"
+        },
+        {
+            "roleId": 2,
+            "roleName": "普通管理员",
+            "roleKey": "admin",
+            "status": "0",
+            "createTime": "2020-8-00"
+        },
+        {
+            "roleId": 3,
+            "roleName": "普通用户",
+            "roleKey": "user",
+            "status": "1",
+            "createTime": "2020-8-000"
+        },
+        {
+            "roleId": 4,
+            "roleName": "员工",
+            "roleKey": "employee",
+            "status": "1",
+            "createTime": "2020-8-00"
+        }
+    ],
+    "pageTotal": 4
+}

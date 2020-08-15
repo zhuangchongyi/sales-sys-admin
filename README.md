@@ -1,0 +1,14 @@
+- 目录结构
+    - sales-sys-admin      父工程
+        - sales-sys-admin-api  后端工程
+        - sales-sys-admin-vue  前端工程
+- 后端技术选型
+    - JDK1.8
+    - MySQL8
+    - springboot 2.2.6.RELEASE
+    - shiro 1.4.0
+    - mybatis plus 3.2.0
+- 前端技术选型
+    - vue
+    - elementUI
+    - axios

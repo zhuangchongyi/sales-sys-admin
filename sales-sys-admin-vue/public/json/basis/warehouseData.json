@@ -1,0 +1,44 @@
+{
+    "data": [{
+            "warehouseId": 1,
+            "warehouseName": "仓库1",
+            "warehouseNum": "warehouse1",
+            "deptName": "采购部",
+            "deptNum": "1",
+            "deptId":"1",
+            "status": "0",
+            "createTime": "2020-8-00"
+        },
+        {
+            "warehouseId": 2,
+            "warehouseName": "仓库2",
+            "warehouseNum": "warehouse2",
+            "deptName": "采购部",
+            "deptNum": "1",
+            "deptId":"1",
+            "status": "0",
+            "createTime": "2020-8-00"
+        },
+        {
+            "warehouseId": 3,
+            "warehouseName": "仓库3",
+            "warehouseNum": "warehouse3",
+            "deptName": "采购部",
+            "deptNum": "1",
+            "deptId":"1",
+            "status": "1",
+            "createTime": "2020-8-000"
+        },
+        {
+            "warehouseId": 4,
+            "warehouseName": "仓库4",
+            "warehouseNum": "warehouse4",
+            "deptName": "采购部",
+            "deptNum": "1",
+            "deptId":"1",
+            "status": "1",
+            "createTime": "2020-8-00"
+        }
+    ],
+    "pageTotal": 4
+}

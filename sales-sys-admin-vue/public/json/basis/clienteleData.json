@@ -1,0 +1,64 @@
+{
+    "data": [{
+            "clienteleId": 1,
+            "clienteleName": "客户1",
+            "clienteleNum": "item1",
+            "status": "0",
+            "linkman": "联系人",
+            "clientelePhone": "88888888",
+            "mobilePhone": "13333333333",
+            "companyAddress": "广东省广州市",
+            "personnelName": "张三",
+            "deptName": "销售部",
+            "clienteleTypeName": "类别1",
+            "clientelePrice": "123",
+            "createTime": "2020-08-15"
+        },
+        {
+            "clienteleId": 2,
+            "clienteleName": "客户2",
+            "clienteleNum": "item2",
+            "status": "0",
+            "linkman": "联系人",
+            "clientelePhone": "88888888",
+            "mobilePhone": "13333333333",
+            "companyAddress": "广东省广州市",
+            "personnelName": "张三",
+            "deptName": "销售部",
+            "clienteleTypeName": "类别1",
+            "clientelePrice": "123",
+            "createTime": "2020-08-03"
+        },
+        {
+            "clienteleId": 3,
+            "clienteleName": "客户3",
+            "clienteleNum": "item3",
+            "status": "1",
+            "linkman": "联系人",
+            "clientelePhone": "88888888",
+            "mobilePhone": "13333333333",
+            "companyAddress": "广东省广州市",
+            "personnelName": "张三",
+            "deptName": "销售部",
+            "clienteleTypeName": "类别1",
+            "clientelePrice": "123",
+            "createTime": "2020-08-10"
+        },
+        {
+            "clienteleId": 4,
+            "clienteleName": "客户4",
+            "clienteleNum": "item4",
+            "status": "1",
+            "linkman": "联系人",
+            "clientelePhone": "88888888",
+            "mobilePhone": "13333333333",
+            "companyAddress": "广东省广州市",
+            "personnelName": "张三",
+            "deptName": "销售部",
+            "clienteleTypeName": "类别1",
+            "clientelePrice": "123",
+            "createTime": "2020-08-09"
+        }
+    ],
+    "pageTotal": 4
+}
